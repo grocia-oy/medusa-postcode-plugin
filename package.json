@@ -1,10 +1,10 @@
 {
-  "name": "@groccia/groccia-medusa-postcode-plugin",
+  "name": "@groccia/medusa-postcode-plugin",
   "version": "0.0.1",
   "description": "MedusaJS plugin for syncing data from postcode dataset",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/groccia/groccia-medusa-postcode-plugin.git"
+    "url": "git+https://github.com/groccia/medusa-fi-postcode-plugin.git"
   },
   "author": "Medusa (https://medusajs.com)",
   "license": "MIT",
